@@ -1,7 +1,7 @@
 export const paperMainStyle = (photo) => ({
     position: 'relative',
     backgroundColor: 'grey',
-    color: '#fff',
+    color: 'black',
     mb: 2,
     mt: 10,
     backgroundSize: 'cover',
